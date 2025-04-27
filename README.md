@@ -2,32 +2,28 @@
 
 - Skill 1 Python (D-Class)
 
-  - notes repo ❯❯
+  - notes repo ❯❯[Notion]()
   - challenges repo ❯❯
-  - my report ❯❯
 
 ----------------------------------------------
 
 - Skill 2 Networking (C-Class)
 
-  - notes repo ❯❯
-  - challenges repo ❯❯
-  - my report ❯❯
+  - notes repo ❯❯ [Notion]()
+  - challenges repo ❯❯ [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-1_Scripting_py)
   
 ----------------------------------------------
 
 - Skill 2 WindowsOS
 
-  - notes repo ❯❯
-  - challenges repo ❯❯
-  - my report ❯❯
+  - notes repo ❯❯[Notion]()
+  - challenges repo ❯❯ [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-2_Networking)
   
 ----------------------------------------------
 
 - Skill 3
 
-  - notes repo ❯❯
-  - challenges repo ❯❯
-  - my report ❯❯
-  
+  - notes repo ❯❯[Notion]()
+  - challenges repo ❯❯ [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-3_WindowsOS)
+
 ----------------------------------------------
