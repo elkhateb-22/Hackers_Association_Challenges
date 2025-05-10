@@ -1,4 +1,6 @@
-# Super Hacker Skills
+# Super Hacker 1337 lvl
+
+## Level 1 Hacking Skills
 
 - Skill 1 Python (D-Class)
 
@@ -14,16 +16,16 @@
 
 ----------------------------------------------
 
-- Skill 2 WindowsOS
+- Skill 2 Windows-OS (B-Class)
 
-  - My Notes Repo ❯❯  [Notion-WindowsOS](https://el5ateb.notion.site/windows-os?pvs=4)
+  - My Notes Repo ❯❯  [Notion-WindowsOS](https://el5ateb.notion.site/windows-os)
   - Challenges Repo ❯❯  [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-3_WindowsOS)
 
 ----------------------------------------------
 
-- Skill 4
+- Skill 4 Linux-OS
 
-  - My Notes Repo ❯❯  [Notion](https://el5ateb.notion.site/)
-  - Challenges Repo ❯❯  [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/)
+  - My Notes Repo ❯❯  [Notion](https://el5ateb.notion.site/linux-os)
+  - Challenges Repo ❯❯  [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-4_LinuxOS)
 
 ----------------------------------------------
