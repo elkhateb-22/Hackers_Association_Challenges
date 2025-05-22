@@ -1,31 +1,103 @@
 # Super Hacker 1337 lvl
 
-## Level 1 Hacking Skills
+## E-Class (E-Class)
 
-- Skill 1 Python (D-Class)
+- Skill 1 Python
 
-  - My Notes Repo ❯❯  [Notion-Python](https://el5ateb.notion.site/python)
-  - Challenges Repo ❯❯  [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-1_Scripting_py)
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
 
-----------------------------------------------
+- Skill 2 Networking
 
-- Skill 2 Networking (C-Class)
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
 
-  - My Notes Repo ❯❯  [Notion-Networking](https://el5ateb.notion.site/networking101)
-  - Challenges Repo ❯❯   [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-2_Networking)
 
-----------------------------------------------
+- Skill 2 Windows-OS
 
-- Skill 2 Windows-OS (B-Class)
-
-  - My Notes Repo ❯❯  [Notion-WindowsOS](https://el5ateb.notion.site/windows-os)
-  - Challenges Repo ❯❯  [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-3_WindowsOS)
-
-----------------------------------------------
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
 
 - Skill 4 Linux-OS
 
-  - My Notes Repo ❯❯  [Notion](https://el5ateb.notion.site/linux-os)
-  - Challenges Repo ❯❯  [GitHub](https://github.com/elkhateb-22/Hackers_Association_Challenges/tree/main/skill-4_LinuxOS)
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+- Skill 5 Cryptography
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+## Level 2 (D-Class)
+
+- Skill 6
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 7
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 8
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 9
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 10
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+## Level 3 (B-Class)
+
+- Skill 11
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 12
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 13
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 14
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
+
+----------------------------------------------
+
+- Skill 15
+
+  - My Notes Repo ❯❯  Notion
+  - Challenges Repo ❯❯  GitHub
 
 ----------------------------------------------
