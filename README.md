@@ -1,8 +1,8 @@
-# Super Hacking Skills: From Zero to 1337
+# 🎯 Super Hacking Skills: From Zero to 1337
 
 A comprehensive learning path for aspiring cybersecurity professionals and ethical hackers.
 
-## Level-1 (E-Class)
+## 📚 Level-1 (E-Class)
 
 ### 1. Python 
   - [Python-101 Notes](https://hackers-cafe.notion.site/python-101)
@@ -24,10 +24,10 @@ A comprehensive learning path for aspiring cybersecurity professionals and ethic
   - [Cryptography-101 Notes](https://hackers-cafe.notion.site/cryptography-101)
   - [Cryptography Challenges Repository](https://github.com/yourusername/Cryptography-Challenges)
 
-## Level-2 (D-Class)
+## 🚀 Level-2 (D-Class)
 *Coming soon...*
 
-## Level-3 (B-Class)
+## 🚀 Level-3 (B-Class)
 *Coming soon...*
 
 ---
