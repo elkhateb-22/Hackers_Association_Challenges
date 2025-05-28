@@ -1,7 +1,5 @@
 # 🎯 Super Hacking Skills: From Zero to 1337
 
-A comprehensive learning path for aspiring cybersecurity professionals and ethical hackers.
-
 ## 📚 Level-1 (E-Class)
 
 ### 1. Python 
